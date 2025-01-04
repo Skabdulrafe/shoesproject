@@ -1,0 +1,14 @@
+.header{
+    display:flex;
+    /* text-decoration: none; */
+     justify-content: start; 
+     margin-left:110px;
+}
+ul{
+    margin-top: 36px;  
+    display:flex;
+    /* justify-content: end; */
+    gap:15px;
+    text-decoration: none;
+    list-style-type:none;
+}
