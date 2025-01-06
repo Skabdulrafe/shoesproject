@@ -1,10 +1,11 @@
 import React from 'react'
 import Header from '../components/Header'
-import Maincompo1 from '../components/maincompo1'
-import Maincompo2 from '../components/Maincompo2'
+
 import '../assets/css/page.css'
 import shoe from '../assets/images/shoe.jpg'
 import Onclick from '../components/onclick'
+import Maincompo1 from '../components/Maincompo1'
+import Maincompo2 from '../components/Maincompo2'
 const Page = () => {
   return (
     <div><Header ></Header>
